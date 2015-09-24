@@ -1,0 +1,9 @@
+D:\Documents and Settings\krran\My Documents\Visual Studio 2013\Projects\xmltest\xmltest\bin\Debug\xmltest.exe.config
+D:\Documents and Settings\krran\My Documents\Visual Studio 2013\Projects\xmltest\xmltest\bin\Debug\xmltest.exe
+D:\Documents and Settings\krran\My Documents\Visual Studio 2013\Projects\xmltest\xmltest\bin\Debug\xmltest.pdb
+D:\Documents and Settings\krran\My Documents\Visual Studio 2013\Projects\xmltest\xmltest\obj\Debug\xmltest.csprojResolveAssemblyReference.cache
+D:\Documents and Settings\krran\My Documents\Visual Studio 2013\Projects\xmltest\xmltest\obj\Debug\xmltest.Form1.resources
+D:\Documents and Settings\krran\My Documents\Visual Studio 2013\Projects\xmltest\xmltest\obj\Debug\xmltest.Properties.Resources.resources
+D:\Documents and Settings\krran\My Documents\Visual Studio 2013\Projects\xmltest\xmltest\obj\Debug\xmltest.csproj.GenerateResource.Cache
+D:\Documents and Settings\krran\My Documents\Visual Studio 2013\Projects\xmltest\xmltest\obj\Debug\xmltest.exe
+D:\Documents and Settings\krran\My Documents\Visual Studio 2013\Projects\xmltest\xmltest\obj\Debug\xmltest.pdb

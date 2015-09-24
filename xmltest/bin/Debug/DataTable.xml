@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!--DataTable: Table1-->
+<DataTable TableName="Table1" CountOfRows="1" CountOfColumns="10">
+  <ClomunName Column0="基础伤" Column1="属性" Column2="副伤" Column3="暴伤" Column4="背伤" Column5="终伤" Column6="加成" Column7="打击面" Column8="抗性" Column9="非爆减伤" />
+  <Row0 Column0="85" Column1="1124" Column2="300" Column3="200" Column4="20" Column5="31" Column6="40" Column7="正" Column8="300" Column9="50" />
+</DataTable>
